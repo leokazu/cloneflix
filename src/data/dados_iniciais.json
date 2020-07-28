@@ -1,0 +1,71 @@
+{
+  "categorias": [
+    {
+      "titulo": "Curtas Nacionais",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "MIOPIA - Curta-metragem [OBAV 2015/1]",
+          "url": "https://www.youtube.com/watch?v=eRCMqSPaGis"
+        },
+        {
+          "titulo": "Curta Metragem: IMPRUDÊNCIA - Ganhador de 4 Prêmios!",
+          "url": "https://www.youtube.com/watch?v=iBCjHzkzWlY"
+        },
+        {
+          "titulo": "Maria Ninguém (Curta-metragem)",
+          "url": "https://www.youtube.com/watch?v=LfwAhTayWNk"
+        },
+        {
+          "titulo": "Nina! - Curta Metragem",
+          "url": "https://www.youtube.com/watch?v=OJmMoaq3uIo"
+        }       
+      ]
+    },
+    {
+      "titulo": "Animação",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Confusão com os biscoitos, curta metragem de animação, by Eduardo Verastegui",
+          "url": "https://www.youtube.com/watch?v=vBzwcxHfRao"
+        },
+        {
+          "titulo": "AS 4 ESTAÇÕES DO ANO - CURTA METRAGEM ANIMAÇÃO",
+          "url": "https://www.youtube.com/watch?v=9ZNIX1Em3Do"
+        },
+        {
+          "titulo": "La Cour - ESMA 2016",
+          "url": "https://www.youtube.com/watch?v=3SjXg1WcYyU"
+        },
+        {
+          "titulo": "Para as crianças se encantarem com os LIVROS - Animação",
+          "url": "https://www.youtube.com/watch?v=siU1QwvAiHU"
+        }, 
+        {
+          "titulo": "A Lua HD ganhador de OSCAR Curta Metragem",
+          "url": "https://www.youtube.com/watch?v=MJC9mYJfUPk"
+        }
+      ]
+    },
+    {
+      "titulo": "Pixar",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Purl | Pixar SparkShorts",
+          "url": "https://youtu.be/B6uuIHpFkuo"
+        },
+        {
+          "titulo": "Smash and Grab | Pixar SparkShorts",
+          "url": "https://youtu.be/A4-G7YpSFb4"
+        },
+        {
+          "titulo": "Kitbull | Pixar SparkShorts",
+          "url": "https://youtu.be/AZS5cgybKcI"
+        }
+      ]
+    }
+  ]
+}
